@@ -1,6 +1,6 @@
 
 <p><h1>SEO Techniques</h1></p>
-<p><b>How to Block Entire website for All Search Engine Bots</b></p>
+<p><b>How to Block Entire website from All  the Search Engine Bots</b></p>
 
 <p>You need to create a robots.txt file and keep it in root folder of server.</p>
 <p>You should write following syntax inside robots.txt file.</p>
